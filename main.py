@@ -4,6 +4,7 @@ from introduction.loops import Loops
 from introduction.strings import Strings
 
 if __name__ == '__main__':
+    """
     type_of_variables()
 
     variable = 1
@@ -22,3 +23,4 @@ if __name__ == '__main__':
     Loops.loop_range()
 
     Strings.old_style_string()
+    """
